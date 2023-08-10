@@ -26,6 +26,6 @@ I'm Rohith, a final-year CS engineering student with a passion for exploring the
 
 📫 You can connect with me on:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rohithboya)
+- LinkedIn: [Rohith Boya](https://www.linkedin.com/in/rohithboya)
 
 Let's harness the power of technology to build a better future! 🌟
