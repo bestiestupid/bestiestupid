@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm [Your Name], a final-year CS engineering student with a passion for exploring the endless possibilities of technology. 🎓
+I'm Rohith, a final-year CS engineering student with a passion for exploring the endless possibilities of technology. 🎓
 
 ## About Me
 
@@ -26,7 +26,6 @@ I'm [Your Name], a final-year CS engineering student with a passion for explorin
 
 📫 You can connect with me on:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rohithboya)
 
 Let's harness the power of technology to build a better future! 🌟
