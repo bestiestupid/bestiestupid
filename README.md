@@ -5,7 +5,7 @@ I'm Rohith, a final-year CS engineering student with a passion for exploring the
 ## About Me
 
 - 🎓 Final Year CS Engineering Student
-- 💻 Interested in Pentesting, Data Recovery, and Exploring New Technologies
+- 💻 Interested in Pentesting, App Building, and Exploring New Technologies
 - 🚀 Aspiring to Make a Positive Impact in the Tech World
 - 🌐 Love to Collaborate and Learn from Others
 
