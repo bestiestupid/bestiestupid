@@ -4,7 +4,7 @@ I'm Rohith, a final-year CS engineering student with a passion for exploring the
 
 [![GitHub iamnew2468](https://img.shields.io/github/followers/iamnew2468?label=follow&style=social)](https://github.com/iamnew2468)
 [![Linkedin: rohithboya](https://img.shields.io/badge/-rohithboya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohithboya/)](https://www.linkedin.com/in/rohithboya/)
-<img src="https://tryhackme-badges.s3.amazonaws.com/iamnew2468.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/iamnew2468.p" alt="TryHackMe">
 
 ## About Me
 
